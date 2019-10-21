@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../api.ai/.idea/api.ai.iml" filepath="$PROJECT_DIR$/../../api.ai/.idea/api.ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../classify-text-naivebayes/.idea/classify-text-naivebayes.iml" filepath="$PROJECT_DIR$/../classify-text-naivebayes/.idea/classify-text-naivebayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../clustering-users-kmeans/.idea/clustering-users-kmeans.iml" filepath="$PROJECT_DIR$/../clustering-users-kmeans/.idea/clustering-users-kmeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crud-api-flask.iml" filepath="$PROJECT_DIR$/.idea/crud-api-flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kmean-clustering/.idea/kmean-clustering.iml" filepath="$PROJECT_DIR$/../kmean-clustering/.idea/kmean-clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
