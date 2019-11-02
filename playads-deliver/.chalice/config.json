@@ -1,5 +1,5 @@
 {
-  "app_name": "playadds-deliver-app",
+  "app_name": "playads-deliver-app",
   "stage": {
     "dev": {
       "autogen_policy": false,
